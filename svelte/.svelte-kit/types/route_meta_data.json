@@ -1,0 +1,64 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/admin": [
+		"src/routes/admin/+layout.ts",
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/actions": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/activity": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/burn": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/info": [
+		"src/routes/admin/info/+page.server.ts",
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/mint": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/multisig": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/overflow": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/rounds": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/admin/withdraw": [
+		"src/routes/admin/+layout.ts"
+	],
+	"/api/add-notification": [
+		"src/routes/api/add-notification/+server.ts"
+	],
+	"/api/add-project": [
+		"src/routes/api/add-project/+server.ts"
+	],
+	"/api/remove-notification": [
+		"src/routes/api/remove-notification/+server.ts"
+	],
+	"/api/save-event-data": [
+		"src/routes/api/save-event-data/+server.ts"
+	],
+	"/api/user": [
+		"src/routes/api/user/+server.ts"
+	],
+	"/dao-generator": [],
+	"/dao-generator/generate": [],
+	"/discover": [
+		"src/routes/discover/+page.ts"
+	],
+	"/p/[contractName]": [
+		"src/routes/p/[contractName]/+page.ts"
+	],
+	"/signatures-queue": [],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.js"
+	]
+}
